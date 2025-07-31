@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm John Charles
 
+🎓 I'm a Computer Science post-graduate from Pondicherry University with a deep passion for building intelligent systems that solve real-world problems. I specialize in AI/ML, backend development, and code automation tools.
+
+---
 <!--
 **johncharles-dev/johncharles-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

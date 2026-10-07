@@ -17,7 +17,8 @@ assets and cut asset creation from days of manual modelling to under a minute.
 **[HTX-3D](https://github.com/johncharles-dev/HTX-3D)** — one interface over
 several image-to-3D and text-to-3D engines, with interactive segmentation and
 automatic metric scaling. Dimensional error cut from 77.5% to 24.6% MAPE;
-305 generated models evaluated blind with paired bootstrap confidence intervals.
+305 generated models evaluated, the second batch scored blind, with paired
+bootstrap confidence intervals.
  
 **[Data Centre Digital Twin](https://github.com/johncharles-dev/Data_Center_Digital_Twin)**
 — six interacting twins over MQTT, predicting CRAC cooling failure up to four

@@ -39,10 +39,6 @@ port for Blackwell, docker-compose, CI) and owned the evaluation reporting.
 gave 1.5x more warning of cooling failure than the room's threshold rules
 (median 292 vs 195 minutes). Advisory-only, with a hash-chained audit trail.
 
-**[Trellis_Blackwell](https://github.com/johncharles-dev/Trellis_Blackwell)** —
-TRELLIS ported to NVIDIA Blackwell (`sm_120`) before upstream supported it:
-a custom SDPA attention backend, CUDA arch flags, float16 fixes and VRAM tiering.
-
 **[HDB Resale Prediction](https://github.com/johncharles-dev/HDB-Resale-Price-Prediction-and-Recommendation)**
 — hybrid XGBoost–Prophet model over 254K Singapore transactions, R² 0.94 and
 $36K MAE. Team project; I sourced the data and built the hybrid model.
